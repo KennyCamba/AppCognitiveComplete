@@ -1,0 +1,2 @@
+C:\Users\Joven Ejemplar_2\Documents\Visual Studio 2017\Projects\AppCognitive\AppCognitive\AppCognitive.UWP\AppCognitive.UWP.csproj;x86
+C:\Users\Joven Ejemplar_2\Documents\Visual Studio 2017\Projects\AppCognitive\AppCognitive\AppCognitive\AppCognitive.csproj;neutral
